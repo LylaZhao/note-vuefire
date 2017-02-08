@@ -1,4 +1,5 @@
 # note-vuefire
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+A note app built with vue.js and firebase
+>>>>>>> a812eef625eb335d84a9811b5da693e4c3b2434b
