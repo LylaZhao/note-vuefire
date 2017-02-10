@@ -93,7 +93,7 @@
   form.edit-note button[type=submit]{
     font-size: 18px;
     float: right;
-    background: #41b883;
+    background: #FF9800;
     color: #fff;
     border: none;
     border-radius: 3px;
