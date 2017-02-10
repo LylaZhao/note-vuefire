@@ -1,7 +1,7 @@
 <template>
   <form class="create-note" v-on:submit.prevent="createNote()">
     <input name="title" v-model="title" placeholder="Title"/>
-    <textarea name="content" v-model="content" placeholder="Text goes here..." rows="3">
+    <textarea name="content" v-model="content" placeholder="Notes go here ..." rows="3">
     </textarea>
     <button type="submit">+</button>
   </form>
@@ -51,6 +51,11 @@
     outline: none;
     font-size: 1.2em;
   }
+   textarea{
+    color:#9E9E9E;
+   }
+
+
   form.create-note button{
     position: absolute;
     right: 18px;

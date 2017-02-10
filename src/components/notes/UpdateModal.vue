@@ -117,11 +117,11 @@
 
   /* modal transition */
   .modal-transition{
-    transition: opacity .3s ease;
+    transition: opacity 0.3s ease;
     opacity: 1;
   }
   .modal-transition form{
-    transition: transform .3s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+    transition: transform 0.3s cubic-bezier(1.0, 0.5, 0.8, 1.0);
   }
   .modal-enter, .modal-leave {
     opacity: 0;
@@ -129,7 +129,7 @@
 
   .modal-enter form,
   .modal-leave form {
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
   }
 </style>

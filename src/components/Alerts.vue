@@ -31,7 +31,7 @@
     background: #e03c3c;
   }
   .alerts div.success{
-    background: #41b883;
+    background: #FF9800;
   }
   .alerts p{
     width: 480px;
