@@ -5,6 +5,7 @@
 
 
 A live demo of this app is at https://note-vuefire.firebaseapp.com
+
 This project is inspired by https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-1
 
 
