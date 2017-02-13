@@ -41,7 +41,7 @@
   }
   .expand-transition{
     max-height: 200px; /* height 0 -> auto is not animatable, so use max-height 0 -> large height */
-    transition: max-height 1s ease;
+    transition: max-height 10s ease;
   }
   .expand-enter, .expand-leave{
     max-height: 0;

@@ -97,7 +97,7 @@
     transition: color .2s;
   }
   header a:focus, header a:hover {
-    color: #41b883;
+    color: #FF9800;
   }
   @media screen and (max-width: 1200px) {
     header span{

@@ -3,6 +3,20 @@
 
 > A Vue.js project
 
+
+## Include Firebase Credentials
+Include your Firebase credentials in src/data/config.json file using the following format
+
+{
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "storageBucket": "",
+    "messagingSenderId": ""
+}
+
+
+
 ## Build Setup
 
 ``` bash
